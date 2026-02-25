@@ -1,0 +1,13 @@
+# Compiled python files and cache
+env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# bytecode
+*.pyc
+
