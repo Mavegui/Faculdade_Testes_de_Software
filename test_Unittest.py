@@ -3,7 +3,12 @@ from unittest.mock import patch
 from maior_ou_menor import main
 
 class TesteComUnittest(unittest.TestCase):
-    
+    """
+    Nessa forma de testar  usando unittest é usado:
+        - mock_input para simular entradas do usuários.
+        - side_effect para receber múltiplos valores.
+        - Os testes são baseados na atividade proposta no enunciado. 
+    """
     @patch("builtins.input")
     def test_A_primeiro_caso(self, mock_input):
         mock_input.side_effect = ['10', '20']
