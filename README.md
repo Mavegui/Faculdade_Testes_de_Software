@@ -1,6 +1,6 @@
 # Faculdade Engenharia de Software
 
-Este repositório contém exemplos e exercícios em Python para disciplina de Testes e Manutenção de Software.
+Este repositório reúne exemplos práticos da atividade proposta em Python, desenvolvido para a disciplina de Testes e Manutenção de Software. O projeto funciona como um repositório de estudos, com o intuito de promover o aprendizado mútuo através da exploração de algumas formas de testes.
 
 ## Estrutura do Projeto
 
